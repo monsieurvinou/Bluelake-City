@@ -1,0 +1,16 @@
+<ItemDatabase>
+	<Items>
+		<Item>
+			<itemID>1</itemID>
+			<itemName>Trumpet</itemName>
+			<description>A small trumpet. I can only make one note with it.</description>
+			<texture>Items/Icons/icon-trumpet</texture>
+		</Item>
+		<Item>
+			<itemID>2</itemID>
+			<itemName>Flute</itemName>
+			<description>A small token given to me by Sarah. I hope she's doing fine.</description>
+			<texture>Items/Icons/icon-trumpet</texture>
+		</Item>
+	</Items>
+ </ItemDatabase>
